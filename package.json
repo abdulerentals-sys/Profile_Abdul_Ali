@@ -1,0 +1,7 @@
+{
+  "name": "abdul-ali-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal profile of Dr. Abdul Ali — IIT Bombay researcher and eRentals founder.",
+  "scripts": {"build":"node scripts/build.mjs","check":"node --check assets/profile.js && node --check scripts/build.mjs"}
+}
